@@ -1,6 +1,7 @@
 # Notas dos Encontros da LAMOB
 
 -------- Estudo dia 27/01/2017 --------
+
 Assunto:
 História do Android;
 API;
