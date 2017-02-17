@@ -17,3 +17,7 @@ Criar uma calculadora
 Cancelado
 
 ------- Estudo dia 10/02/2017 -------
+Activity;
+Intent;
+
+------- Estudo dia 17/02/2017 -------
